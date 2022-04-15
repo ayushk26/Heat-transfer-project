@@ -18,8 +18,8 @@ FoamFile
 (
     sides
     {
-        type            patch;
-        physicalType    patch;
+        type            empty;
+        physicalType    empty;
         nFaces          684;
         startFace       9044;
     }
